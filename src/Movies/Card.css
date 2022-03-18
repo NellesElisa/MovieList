@@ -1,0 +1,22 @@
+.layout-posters .list-item {
+  border: 2px solid #e3e3e3;
+  border-radius: 40px;
+  overflow: hidden;
+  margin: 10px;
+}
+
+.layout-posters {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card{
+  margin-top: 50px;
+  color: black;
+}
+
+.profil{
+  border-radius: 100%;
+}

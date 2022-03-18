@@ -1,0 +1,30 @@
+
+label{
+    min-width:100%;
+  }
+
+  input {
+    width: 300px;
+    padding: .5em;
+    border-radius: 20px;
+    box-shadow: 4px 4px 60px rgba(0, 0, 0, 0.2);
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+  }
+
+  
+  [type="text"],
+  [type="email"],
+  [type="date"],
+  [type="password"],
+  [type="submit"]{
+    box-shadow: 4px 4px 60px 8px rgba(0,0,0,0.2);
+    margin-top:  10px;
+    margin-bottom: 10px;
+   }
+  
+  [type="radio"]{
+    background:none;
+    box-shadow: none;
+    width: 165px;
+  }

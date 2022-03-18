@@ -1,0 +1,16 @@
+body{
+  background: linear-gradient(45deg, #c25d71, #5a6dcc);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
